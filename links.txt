@@ -1,2 +1,0 @@
-http://www.dropwizard.io/0.9.3/docs/getting-started.html
-http://mvnrepository.com/
